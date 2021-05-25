@@ -2,5 +2,4 @@ var o = document.getElementsByClassName("ignore-button see-all-link btn-control-
 for (var i = 0; i < 1000; i++)
     o[i].click();
     console.log(i);
-
 }
